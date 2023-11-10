@@ -1,4 +1,4 @@
-header.png
+(https://github.com/tiibuturner/tiibuturner/blob/main/header.png)
 
 Welcome to my GitHub- profile. 👋
 I am studying Business Information Technolog at Hämeen ammattikorkeakoulu (HAMK). 💻
