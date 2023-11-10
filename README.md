@@ -3,14 +3,16 @@
 
 Welcome to my GitHub- profile.👋
 I am studying Business Information Technolog at Hämeen ammattikorkeakoulu (HAMK). 💻
-I am on my second year. I plan to graduate in May 2025.
+I am on my second year and I plan to graduate in May 2025.
 
 Passionate about cloud computing and everything that links to that. ☁️
 Very fond of RobotFramework. 🤖
 
-👉 I am currently working on a pile of homeworks, but also my own project: TimeToFocus.
+👉 I am currently working on a pile of homeworks, but also my own projects.
 
-👉 I am currently learning about analytics and the ways to do it.
+👉 I am currently learning about analytics and the ways to do it. 
+
+👉 On my spare time, I am studying about DevOps and containerization. 🤓
 
 👈 You can find my LinkedIn- profile in there!
 
