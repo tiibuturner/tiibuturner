@@ -11,8 +11,13 @@ Very fond of RobotFramework. 🤖
 👉 I am currently working on a pile of homeworks, but also my own project: TimeToFocus.
 👉 I am currently learning about analytics and the ways to do it.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiibuturner&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
 FUN FACT:
 As you may see, I am a HUGE Star Wars fan!
+
+You can contact me:
+<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
 
 
 
