@@ -3,8 +3,7 @@
 
 📍 Finland.
 
-![fi](https://github.com/tiibuturner/tiibuturner/assets/111892419/8a07693c-b522-4ca4-be6e-1298d7b84c3f)
-
+![download](https://github.com/tiibuturner/tiibuturner/assets/111892419/65cf93a6-11eb-4c1c-8f10-5787a397f6ce)
 
 
 Welcome to my GitHub- profile. 👋
