@@ -19,11 +19,4 @@ Very fond of RobotFramework. 🤖
 FUN FACT:
 I LOVE Star Wars! I saw The Phantom Menace when I was 7 years old and it was love at first sight (despite of Jar Jar Binks).
 
-![ohboys](https://github.com/tiibuturner/tiibuturner/assets/111892419/265f8798-e15b-45cf-b0b1-c8abb69454f4)
-
-
-
-
-
-
-
+![excitedbeebd](https://github.com/tiibuturner/tiibuturner/assets/111892419/ead909ba-10b6-420d-94f8-bca8c3eb35a6)
