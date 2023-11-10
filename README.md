@@ -2,7 +2,10 @@
 ![obii](https://github.com/tiibuturner/tiibuturner/assets/111892419/6b6adeb9-9889-4554-8c74-2b7e04ddceb0)
 
 📍 Finland.
-🇫🇮 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇸🇪
+
+![fi](https://github.com/tiibuturner/tiibuturner/assets/111892419/8a07693c-b522-4ca4-be6e-1298d7b84c3f)
+
+
 
 Welcome to my GitHub- profile. 👋
 I am studying Business Information Technolog at Hämeen ammattikorkeakoulu (HAMK). 💻
@@ -13,3 +16,7 @@ Very fond of RobotFramework. 🤖
 
 👉 I am currently working on a pile of homeworks, but also my own project: TimeToFocus.
 👉 I am currently learning about analytics and the ways to do it.
+
+FUN FACT:
+As you may see, I am a HUGE Star Wars fan!
+
