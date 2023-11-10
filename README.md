@@ -12,8 +12,8 @@ Very fond of RobotFramework. 🤖
 
 👉 I am currently learning about analytics and the ways to do it.
 
+👈 You can find my LinkedIn- profile in there!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiibuturner&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
