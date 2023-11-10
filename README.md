@@ -1,5 +1,4 @@
 
-![obii](https://github.com/tiibuturner/tiibuturner/assets/111892419/6b6adeb9-9889-4554-8c74-2b7e04ddceb0)
 
 Welcome to my GitHub- profile. 👋
 I am studying Business Information Technolog at Hämeen ammattikorkeakoulu (HAMK). 💻
