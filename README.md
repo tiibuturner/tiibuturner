@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**tiibuturner/tiibuturner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![obii](https://github.com/tiibuturner/tiibuturner/assets/111892419/6b6adeb9-9889-4554-8c74-2b7e04ddceb0)
 
-Here are some ideas to get you started:
+📍 Finland.
+🇫🇮 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇸🇪
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub- profile. 👋
+I am studying Business Information Technolog at Hämeen ammattikorkeakoulu (HAMK). 💻
+I am on my second year. I plan to graduate in May 2025.
+
+Passionate about cloud computing and everything that links to that. ☁️
+Very fond of RobotFramework. 🤖
+
+👉 I am currently working on a pile of homeworks, but also my own project: TimeToFocus.
+👉 I am currently learning about analytics and the ways to do it.
