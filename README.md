@@ -9,6 +9,7 @@ Passionate about cloud computing and everything that links to that. ☁️
 Very fond of RobotFramework. 🤖
 
 👉 I am currently working on a pile of homeworks, but also my own project: TimeToFocus.
+
 👉 I am currently learning about analytics and the ways to do it.
 
 
