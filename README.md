@@ -1,11 +1,6 @@
 
 ![obii](https://github.com/tiibuturner/tiibuturner/assets/111892419/6b6adeb9-9889-4554-8c74-2b7e04ddceb0)
 
-📍 Finland.
-
-![download](https://github.com/tiibuturner/tiibuturner/assets/111892419/65cf93a6-11eb-4c1c-8f10-5787a397f6ce)
-
-
 Welcome to my GitHub- profile. 👋
 I am studying Business Information Technolog at Hämeen ammattikorkeakoulu (HAMK). 💻
 I am on my second year. I plan to graduate in May 2025.
@@ -18,4 +13,6 @@ Very fond of RobotFramework. 🤖
 
 FUN FACT:
 As you may see, I am a HUGE Star Wars fan!
+
+
 
