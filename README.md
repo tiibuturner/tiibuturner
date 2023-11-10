@@ -10,7 +10,7 @@ Very fond of RobotFramework. 🤖
 
 👉 I am currently working on a pile of homeworks, but also my own projects.
 
-👉 I am currently learning about analytics and the ways to do it. 
+👉 At school, I am currently learning about analytics and the ways to do it. 
 
 👉 On my spare time, I am studying about DevOps and containerization. 🤓
 
