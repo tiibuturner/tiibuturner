@@ -20,5 +20,5 @@ FUN FACT:
 I LOVE Star Wars! I saw The Phantom Menace when I was 7 years old and it was love at first sight (despite of Jar Jar Binks).
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/tiibuturner/tiibuturner/assets/111892419/ead909ba-10b6-420d-94f8-bca8c3eb35a6">
+  <img src="https://github.com/tiibuturner/tiibuturner/assets/111892419/ead909ba-10b6-420d-94f8-bca8c3eb35a6">
 </p>
