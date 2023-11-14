@@ -20,7 +20,7 @@ I am on my second year and I plan to graduate in May 2025.</p>
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;>👉 At school, I am currently learning about analytics and the ways to do it.</p> 
 
 <p style=
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;>👉 On my spare time, I am studying about DevOps and containerization.</p> 🤓
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;>👉 On my spare time, I am studying about DevOps and containerization.🤓</p>
 
 <p style=
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;>👈 You can find my LinkedIn- profile in there!</p>
