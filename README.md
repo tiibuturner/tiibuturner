@@ -1,7 +1,10 @@
 
 ![header](https://github.com/tiibuturner/tiibuturner/assets/111892419/e85b8dd4-bc5b-4a17-b306-723ad9a5d263)
 
-Welcome to my GitHub- profile.👋
+<h1 style=
+    color: #D9D1BA;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: xx-large;>Welcome to my GitHub- profile.👋</h1>
 I am studying Business Information Technolog at Hämeen ammattikorkeakoulu (HAMK). 💻
 I am on my second year and I plan to graduate in May 2025.
 
