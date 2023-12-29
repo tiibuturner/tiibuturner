@@ -3,7 +3,10 @@
 
 <h1 style=
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: xx-large;>Happy Holidays for everyone!🎄</h1>
+    font-size: xx-large;>Happy Holidays for everyone and a Happy New Year!🎄🎆</h1>
+<p style=
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;>My GitHub page has been quite quiet, but there is a good reason for that: I have been sick for almost the whole December. Keeping my fingers crossed that I'll get better soon.🤞🏼 <br>
+I have lot of ideas that I would like to do and publish in here, but for now I will concentrate on rest and getting well.</p>
 
 <h1 style=
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
