@@ -21,10 +21,10 @@ I am on my second year and I plan to graduate in May 2025.</p>
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;>Very fond of RobotFramework.🤖</p>
 
 <p style=
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;>👉 I am currently working on a pile of homeworks, but also my own projects.</p>
-
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;>👉 Currently working on: Getting better.🤧 </p>
+    
 <p style=
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;>👉 At school, I am currently learning about analytics and the ways to do it.</p> 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;>👉 School: On January, we will be focusing on robotics and write a mini thesis.</p> 
 
 <p style=
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;>👉 On my spare time, I am studying about DevOps and containerization.🤓</p>
