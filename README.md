@@ -12,7 +12,7 @@ I have lot of ideas that I would like to do and publish in here, but for now I w
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: xx-large;>Welcome to my GitHub- profile.👋</h1>
 <p style=
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;>I am studying Business Information Technolog at Hämeen ammattikorkeakoulu (HAMK). 💻
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;>I am studying Business Information Technology at Hämeen ammattikorkeakoulu (HAMK). 💻
 I am on my second year and I plan to graduate in May 2025.</p>
 
 <p style=
