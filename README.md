@@ -24,7 +24,7 @@ I am on my second year and I plan to graduate in May 2025.</p>
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;>👉 Currently working on: Getting better.🤧 </p>
     
 <p style=
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;>👉 School: On January, we will be focusing on robotics and write a mini thesis.</p> 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;>👉 School: On January, we will be studying on specifying, describing and automating business processes with the use of software robotics and business process automation. We will also write a minithesis.</p> 
 
 <p style=
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;>👉 On my spare time, I am studying about DevOps and containerization.🤓</p>
