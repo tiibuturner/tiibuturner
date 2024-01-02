@@ -3,7 +3,7 @@
 
 <h1 style=
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: xx-large;>Welcome to my GitHub- profile.👋</h1>
+    font-size: xx-large;>Welcome to my GitHub- profile. 🤩</h1>
 <p style=
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;>I am studying Business Information Technology at Hämeen ammattikorkeakoulu (HAMK). 💻
 I am on my second year and I plan to graduate in May 2025.</p>
