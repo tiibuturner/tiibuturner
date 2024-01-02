@@ -3,7 +3,7 @@
 
 <h1 style=
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: xx-large;>Welcome to my GitHub- profile. 🤩</h1>
+    font-size: xx-large;>Welcome to my GitHub- profile!</h1>
 <p style=
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;>I am studying Business Information Technology at Hämeen ammattikorkeakoulu (HAMK). 💻
 I am on my second year and I plan to graduate in May 2025.</p>
@@ -14,16 +14,13 @@ I am on my second year and I plan to graduate in May 2025.</p>
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;>Very fond of RobotFramework.🤖</p>
 
 <p style=
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;>👉 Currently working on: Getting better.🤧 </p>
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;>👉 Currently working on: Projects of my own and learning about DevOps & cybersecurity (capture the flag).🤓</p>
     
 <p style=
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;>👉 School: On January, we will be studying on specifying, describing and automating business processes with the use of software robotics and business process automation. We will also write a minithesis.</p> 
 
 <p style=
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;>👉 On my spare time, I am studying about DevOps and containerization.🤓</p>
-
-<p style=
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;>👈 You can find my LinkedIn- profile in there!</p>
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;>👉 Tou can check my LinkedIn- profile to get to know me better. You can find it in my profile.</p>
 
 <h2 style=
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;><b>FUN FACT</b>:</h2>
