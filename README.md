@@ -23,7 +23,7 @@ I am on my second year and I plan to graduate in May 2025.</p>
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;>👉 You can check my LinkedIn- profile to get to know me better. You can find it in my profile.</p>
 
 <p style=
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;>👉 Now playing (PS5): I just finished Witcher 3 and it's expansions. Mourning that I can't have adventures with Geralt, but still starting a new one with Basim in AC Mirage.</p>
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;>👉 Now playing (PS5): I just finished Witcher 3 and its expansions. I am mourning that I can't have adventures with Geralt, but life goes on and I am starting a new one with Basim in AC Mirage.</p>
 
 <h2 style=
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;><b>FUN FACT</b>:</h2>
