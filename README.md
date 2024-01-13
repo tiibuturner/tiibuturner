@@ -14,7 +14,7 @@ I am on my second year and I plan to graduate in May 2025.</p>
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;>Very fond of RobotFramework.🤖</p>
 
 <p style=
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;>👉 Currently working on: Projects of my own and learning about DevOps & cybersecurity (capture the flag).🤓</p>
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;>👉 Currently working on: Projects of my own and learning about DevOps & cybersecurity.🤓</p>
     
 <p style=
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;>👉 School: On January, we will be studying on specifying, describing and automating business processes with the use of software robotics and business process automation. We will also write a minithesis.</p>
