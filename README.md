@@ -7,24 +7,19 @@
 <p style=
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;>I am studying Business Information Technology at Hämeen ammattikorkeakoulu (HAMK). 💻</p>
 <p style=
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;>I am on my second year and I plan to graduate in May 2025.</p>
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;>I am on my second year and I plan to graduate in March 2025.</p>
 
 <p style=
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;>Passionate about cloud computing and everything that links to that.☁️</p>
 <p style=
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;>Very fond of RobotFramework.🤖</p>
 
-<p style=
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;>👉 Currently working on: Projects of my own and learning about DevOps & cybersecurity.🤓</p>
     
 <p style=
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;>👉 School: On January, we will be studying on specifying, describing and automating business processes with the use of software robotics and business process automation. We will also write a minithesis.</p>
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;>👉 School: Started with our profiling studies. I am doing studies about DevOps.</p>
 
 <p style=
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;>👉 You can check my LinkedIn- profile to get to know me better. You can find it in my profile.</p>
-
-<p style=
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;>👉 Now playing (PS5): I just finished Witcher 3 and its expansions. I am mourning that I can't have adventures with Geralt, but life goes on and I am starting a new one with Basim in AC Mirage.</p>
 
 <h2 style=
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;><b>FUN FACT</b>:</h2>
