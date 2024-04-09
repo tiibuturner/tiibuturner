@@ -7,7 +7,7 @@
 <p style=
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;>I am studying Business Information Technology at Hämeen ammattikorkeakoulu (HAMK). 💻</p>
 <p style=
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;>I am on my second year. I am going to graduate in March 2025.</p>
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;>I am currently doing my last studies for the Second Year. In August, I will start with my final studies and in March I will graduate. </p>
 
 <p style=
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;>Passionate about cloud computing and everything that links to that.☁️</p>
