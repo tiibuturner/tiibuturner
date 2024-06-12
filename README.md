@@ -5,20 +5,13 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: xx-large;>Welcome to my GitHub- profile!</h1>
 <p style=
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;>I am studying Business Information Technology at Hämeen ammattikorkeakoulu (HAMK). 💻<br />
-I'll be starting my 3rd year in August and celebrating my graduation in March 2025.</p>
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;>I am studying Business Information Technology at Hämeen ammattikorkeakoulu (HAMK). 💻<br /> I'll be starting my 3rd year in August and celebrating my graduation in March 2025.</p>
 <p style=
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;>Passionate about cloud computing and everything that links to that.☁️</p>
-    
-<p style=
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;>👉 Currently doing my internship, so I will not be very active around here. Sorry about that.😮‍💨 </p>
-
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;>👉 Currently doing my internship.🤩 I'll be focused on work, so I won't be very active around here. Apologies for that.🙇‍♀️</p>
 <p style=
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;>👉 You can check my LinkedIn- profile to get to know me better. You can find it in my profile.</p>
-
 <h2 style=
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;><b>FUN FACT</b>:</h2>
-
 <p style=
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;>I LOVE Star Wars! I saw The Phantom Menace when I was 7 years old and it was love at first sight (despite of Jar Jar Binks).</p>
 
