@@ -5,18 +5,13 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: xx-large;>Welcome to my GitHub- profile!</h1>
 <p style=
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;>I am studying Business Information Technology at Hämeen ammattikorkeakoulu (HAMK). 💻</p>
-<p style=
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;>I am currently doing my last studies for the Second Year. In August, I will start with my final year in HAMK and in March I will graduate. </p>
-
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;>I am studying Business Information Technology at Hämeen ammattikorkeakoulu (HAMK). 💻
+I'll be starting my 3rd year in August and celebrating my graduation in March 2025.</p>
 <p style=
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;>Passionate about cloud computing and everything that links to that.☁️</p>
-<p style=
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;>Very fond of RobotFramework.🤖</p>
-
     
 <p style=
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;>👉 School: Started with our profiling studies. I am doing studies about DevOps.</p>
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;>👉 Currently doing my internship, so I will not be very active around here. Sorry about that.😮‍💨 </p>
 
 <p style=
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;>👉 You can check my LinkedIn- profile to get to know me better. You can find it in my profile.</p>
