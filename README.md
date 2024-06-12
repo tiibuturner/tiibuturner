@@ -5,7 +5,7 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: xx-large;>Welcome to my GitHub- profile!</h1>
 <p style=
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;>I am studying Business Information Technology at Hämeen ammattikorkeakoulu (HAMK). 💻
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;>I am studying Business Information Technology at Hämeen ammattikorkeakoulu (HAMK). 💻 \n
 I'll be starting my 3rd year in August and celebrating my graduation in March 2025.</p>
 <p style=
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;>Passionate about cloud computing and everything that links to that.☁️</p>
