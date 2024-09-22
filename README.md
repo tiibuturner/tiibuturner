@@ -7,9 +7,8 @@
 <p style=
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;>I am studying Business Information Technology at HAMK Häme University of Applied Sciences. 💻<br /> I'll be starting my 3rd year in August.<br /> Graduating in March 2025 - 9 months in advance!💪</p>
 <p style=
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;>👉 Currently doing my internship.🤩 I'll be focused on work, so I won't be very active around here. Apologies for that.🙇‍♀️</p>
-<p style=
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;>👉 You can check my LinkedIn- profile to get to know me better. You can find it in my profile.</p>
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;>👉 Busy with work and school.</p>
+    
 <h2 style=
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;><b>FUN FACT</b>:</h2>
 <p style=
